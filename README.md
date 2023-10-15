@@ -1,7 +1,7 @@
 
 ![header](acces/header.png)
 
-### founder of the creative association Code Squad+
+### founder of the creative association CodeSquad+
 
 ---
 
