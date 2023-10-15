@@ -1,14 +1,11 @@
 
-![header](acces/header.jpg)
+![header](acces/header.png)
 
-
-
-## Java developer from Moscow
-#### founder of the creative association Code Squad+
+### founder of the creative association Code Squad+
 
 ---
 
-### About CodeSquad+
+## CodeSquad+
 
 Творческое объединение IT специалистов. В данный момент мы заняты разработкой социально значимого проекта, аналогов которого еще нет в российском сегменте сети интернет. Наше приложение "Breeder's Book" поможет объединить людей, интересующихся домашними животными, в одну социальную сеть. Вы можете узнать больше о нашем приложении и его возможностях на нашем сайте  [Breeder's Book](breedersbook.ru)
 
