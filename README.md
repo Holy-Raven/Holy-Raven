@@ -27,6 +27,10 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-090909?style=for-the-badge&logo=ApacheKafka&logoColor=231F20)
 ![SFTP](https://img.shields.io/badge/-SFTP-090909?style=for-the-badge&logo=SFTP&logoColor=85EA2D)
 ![FTP](https://img.shields.io/badge/-FTP-090909?style=for-the-badge&logo=FTP&logoColor=85EA2D)
+![Loki](https://img.shields.io/badge/-Loki-090909?style=for-the-badge&logo=Loki&logoColor=4E9A06)
+![Grafana](https://img.shields.io/badge/-Grafana-090909?style=for-the-badge&logo=Grafana&logoColor=F46800)
+![Prometheus](https://img.shields.io/badge/-Prometheus-090909?style=for-the-badge&logo=Prometheus&logoColor=E6522C)
+
 
 ### 🚀 About Me:
 - 💼 **Java Developer** specializing in enterprise application development.
